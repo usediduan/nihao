@@ -8,6 +8,7 @@ public class text01 {
         System.out.println("我们是好朋友吗");
         System.out.println("你是不是汪汪队的小队长");
         System.out.println("和号1111");
+        System.out.println("pull成功哦亲");
     }
 
 
