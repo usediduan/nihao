@@ -7,7 +7,7 @@ public class text01 {
         System.out.println("你在狗叫什么");
         System.out.println("我们是好朋友吗");
         System.out.println("你是不是汪汪队的小队长");
-        System.out.println("和号");
+        System.out.println("和号1111");
     }
 
 
